@@ -14,7 +14,7 @@ You can spend cash to upgrade your tech for permanent bonuses, or string togethe
 
 A scrolling marquee throws random events at you like power grid failures or viral tech drops that completely change the math.
 
-## 🚀 How to play it
+## How to play it
 
 Clone the repository and make sure you have Go installed on your system.
 
